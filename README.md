@@ -1,6 +1,6 @@
 # Monteiro aqui! 👋
 
-<div style="display: inline_block">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/Igor-Mont">
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Igor-Mont&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-Mont&layout=compact&langs_count=7&theme=midnight-purple"/>
